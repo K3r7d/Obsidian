@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f081ead8cbff3999",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARTICLE SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ARTICLE SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ARTICLE SUMMARY.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,11 +152,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d36f6d22bc54a62d",
+  "active": "f081ead8cbff3999",
   "lastOpenFiles": [
+    "ARTICLE SUMMARY.md",
+    "Pasted image 20231128081950.png",
+    "Pasted image 20231128081934.png",
+    "Pasted image 20231128081920.png",
     "Pasted image 20231127232744.png",
     "2023-11-27.md",
-    "ARTICLE SUMMARY.md",
     "Main.md",
     "Untitled"
   ]
