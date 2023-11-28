@@ -1,0 +1,6 @@
+1. To PROBLEM 1 [produce n products satisfying production ≥ demand]. (4 points) Use the 2-SLPWR model given in Equations 7 and 8 when n = 8 products, the number of scenarios S = 2 with density ps = 1/2, the number of parts to be ordered before production m = 5, we randomly simulate data vector b, l, q, s and matrix A of size n × m. We also assume that the random demand vector ω = D = (D1, D2, · · · , Dn) where each ωi with density pi follows the binomial distribution Bin(10, 1/2). REQUEST: build up the nummerical models of Equations 7 and 8 with simulated data. Find the optimal solution x, y ∈ R m, and z ∈ R n by suitable soft (as GAMSPy)
+
+
+
+
+2. To the SLP-EPDR: Algorithmic Solutions (6 points) Few Solution algorithms are given in Section 4 of Ref. 1, and this year 20023 CSE - HCMUT students may try only the first approach (Algorithm 1) based on Min-cost Flow Problem. Learn, implement and verify the effectiveness of the studied Algorithm or solving the twostage stochastic evacuation planning model on a small grid network only, with Experiment Design approach. Precisely the simulated would have max of 50 nodes and 100 links ([in Section 5.1 of Ref. 1 ]).
