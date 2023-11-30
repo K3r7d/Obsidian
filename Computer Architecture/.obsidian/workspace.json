@@ -1,18 +1,25 @@
 {
   "main": {
-    "id": "52109d872b7d9747",
+    "id": "02284ea9844abd3b",
     "type": "split",
     "children": [
       {
-        "id": "2fecb86fa59f36bb",
+        "id": "0c35284e53e3dd2c",
         "type": "tabs",
         "children": [
           {
-            "id": "d36f6d22bc54a62d",
+            "id": "770150ca84c17660",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Chapter 4.canvas",
+                "viewState": {
+                  "x": -616.0270805475799,
+                  "y": -552.274354086312,
+                  "zoom": -0.6666666666666665
+                }
+              }
             }
           }
         ]
@@ -21,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5b8e3270fac31ed5",
+    "id": "9299e4251b026839",
     "type": "split",
     "children": [
       {
-        "id": "b272097be0a2c4c4",
+        "id": "8396e7fa87c24ac6",
         "type": "tabs",
         "children": [
           {
-            "id": "dc95f6fb75db2f7d",
+            "id": "28d9f141b181b06a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +46,7 @@
             }
           },
           {
-            "id": "ccc63de79f18ca4a",
+            "id": "88b52aa2b45fc2fd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +61,7 @@
             }
           },
           {
-            "id": "1f63c9d34921046a",
+            "id": "cd1f8a5436c4782a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,23 +72,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "cb212acfece876d9",
+    "id": "96693b4c70d10e34",
     "type": "split",
     "children": [
       {
-        "id": "b1369193b02d4394",
+        "id": "f4a48dc62d394147",
         "type": "tabs",
         "children": [
           {
-            "id": "648b9080522e1b58",
+            "id": "b54e20c6aa03117a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chapter 4.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,18 +100,19 @@
             }
           },
           {
-            "id": "07f7c6aa691ecc6d",
+            "id": "44b086e404ac6f95",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chapter 4.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c6a9ac32a3bf758c",
+            "id": "95d7cae8e53fe3fc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -115,11 +123,13 @@
             }
           },
           {
-            "id": "a2be90d54930a162",
+            "id": "030f1717ee435cd3",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chapter 4.canvas"
+              }
             }
           }
         ]
@@ -139,16 +149,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d36f6d22bc54a62d",
+  "active": "770150ca84c17660",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "ARTICLE SUMMARY.md",
-    "Pasted image 20231128081950.png",
-    "Pasted image 20231128081934.png",
-    "Pasted image 20231128081920.png",
-    "Pasted image 20231127232744.png",
-    "2023-11-27.md",
-    "Main.md",
-    "Untitled"
+    "Ảnh màn hình 2023-11-30 lúc 18.03.58.png",
+    "Ảnh màn hình 2023-11-30 lúc 17.58.46.png",
+    "Ảnh màn hình 2023-11-30 lúc 17.20.31.png",
+    "Chapter 4.canvas",
+    "Untitled.md",
+    "Untitled 1.md"
   ]
 }

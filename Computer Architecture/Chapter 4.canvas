@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"ee5795c15d2ee7d9","x":-1080,"y":-460,"width":1080,"height":480,"type":"group","label":"MIPS instruction cycle"},
+		{"id":"e0aaf174c6519e2f","x":400,"y":-460,"width":420,"height":513,"type":"group","label":"Introduction"},
+		{"id":"4df647cce4e5f9a2","x":400,"y":-407,"width":400,"height":183,"type":"group","label":"Instruction learn"},
+		{"id":"9e638b27843e0499","x":-640,"y":-408,"width":250,"height":120,"type":"group","label":"Instruction Fetch"},
+		{"id":"d7ac564f508b9db7","x":-340,"y":-148,"width":260,"height":113,"type":"group","label":"Execution"},
+		{"id":"185d9ddef0657f53","x":-980,"y":-128,"width":250,"height":72,"type":"group","label":"Memory"},
+		{"id":"c76660b855250972","x":-980,"y":-379,"width":250,"height":60,"type":"group","label":"Write Back"},
+		{"id":"a6d23049c8135e79","x":-335,"y":-377,"width":255,"height":58,"type":"group","label":"Instruction decode"},
+		{"id":"e6a5f95bd9622000","x":-1360,"y":-1079,"width":250,"height":60,"type":"text","text":"ALU là bộ tính toán đại số"},
+		{"id":"4765dd8fb76437ac","x":400,"y":-404,"width":400,"height":60,"type":"text","text":"memory reference: lw, sw"},
+		{"id":"9b9b2de640a79b95","x":400,"y":-344,"width":400,"height":60,"type":"text","text":"Arithmetic/logical: add, sub, and, or, slt"},
+		{"id":"9c8d9bf66cf44cab","x":400,"y":-284,"width":400,"height":60,"type":"text","text":"control transfer: beq, j"},
+		{"id":"0c1055872b51d3c5","x":400,"y":-167,"width":250,"height":50,"type":"text","text":"Single clock and Pipeline"},
+		{"id":"e18cb34e291537f5","x":-1428,"y":-923,"width":250,"height":103,"type":"text","text":"Data path: là đường dẫn dữ liệu là được điều khiển bởi Control"},
+		{"id":"d6e5d8c1f22ff1a0","x":-640,"y":-408,"width":220,"height":60,"type":"text","text":"Get instruction from memory"},
+		{"id":"814c771343789e0b","x":-640,"y":-348,"width":220,"height":60,"type":"text","text":"address is in the PC(program counter) register"},
+		{"id":"1496ce0571a90f47","x":-980,"y":-379,"width":250,"height":60,"type":"text","text":"Store the result of operation"},
+		{"id":"c1eee09c9e5b9007","x":-965,"y":-120,"width":220,"height":50,"type":"text","text":"Access Memory"},
+		{"id":"453ff129baefaf27","x":-992,"y":-843,"width":732,"height":283,"type":"text","text":"Write Control Signal: We will use the word asserted to indicate a signal that is logically high and assert\n\nto specify that a signal should be driven logically high, and deassert or deasserted\n\nto represent logically low. We use the terms assert and deassert because when\n\nwe implement hardware, at times 1 represents logically high and at times it can\n\nrepresent logically low."},
+		{"id":"454afacec9898ccb","x":-420,"y":-1583,"width":775,"height":564,"type":"file","file":"Ảnh màn hình 2023-11-30 lúc 17.58.46.png"},
+		{"id":"2ed27845fb0bcbc9","x":-340,"y":-125,"width":250,"height":60,"type":"text","text":"Run the instruction"},
+		{"id":"1be5425affd706cb","x":-340,"y":-374,"width":260,"height":60,"type":"text","text":"Decode address just access by IF"},
+		{"id":"4a44b77b068340f9","x":-1567,"y":-671,"width":457,"height":111,"type":"text","text":"register file: A state element that consists of a set of registers that can be read and written by supplying a register number to be accessed."},
+		{"id":"dd44bb3ed8fcb8a9","x":-16,"y":-753,"width":400,"height":169,"type":"file","file":"Ảnh màn hình 2023-11-30 lúc 18.03.58.png"}
+	],
+	"edges":[
+		{"id":"68af00e5d5956b4b","fromNode":"9e638b27843e0499","fromSide":"right","toNode":"a6d23049c8135e79","toSide":"left"},
+		{"id":"a5bae33205e30a0e","fromNode":"a6d23049c8135e79","fromSide":"bottom","toNode":"d7ac564f508b9db7","toSide":"top"},
+		{"id":"fab2761aa7678b29","fromNode":"d7ac564f508b9db7","fromSide":"left","toNode":"185d9ddef0657f53","toSide":"right"},
+		{"id":"6b2725b3371154e9","fromNode":"c76660b855250972","fromSide":"right","toNode":"9e638b27843e0499","toSide":"left"},
+		{"id":"bf3dbf781ebdca42","fromNode":"185d9ddef0657f53","fromSide":"top","toNode":"c76660b855250972","toSide":"bottom"}
+	]
+}
