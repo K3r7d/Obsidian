@@ -15,14 +15,30 @@
               "state": {
                 "file": "Chapter 4.canvas",
                 "viewState": {
-                  "x": 1015.6189783882662,
-                  "y": 1554.1661106411766,
-                  "zoom": -0.5000000000000002
+                  "x": 1538.7108340845166,
+                  "y": 861.1831186179529,
+                  "zoom": -1
+                }
+              }
+            }
+          },
+          {
+            "id": "41f58cc2d5aeebe1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Chapter 5.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 4.canvas",
+                "file": "Chapter 5.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 4.canvas",
+                "file": "Chapter 5.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 4.canvas"
+                "file": "Chapter 5.canvas"
               }
             }
           }
@@ -149,8 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "770150ca84c17660",
+  "active": "41f58cc2d5aeebe1",
   "lastOpenFiles": [
+    "Chapter 5.canvas",
+    "Chapter 4.canvas",
+    "Chapter5.canvas.md",
+    "Untitled 1.md",
     "Pasted image 20231201220242.png",
     "Pasted image 20231201215945.png",
     "Pasted image 20231201215359.png",
@@ -160,10 +180,6 @@
     "Ảnh màn hình 2023-12-01 lúc 15.42.12.png",
     "Ảnh màn hình 2023-12-01 lúc 15.41.07.png",
     "Ảnh màn hình 2023-12-01 lúc 15.40.02.png",
-    "Ảnh màn hình 2023-12-01 lúc 14.28.49.png",
-    "Ảnh màn hình 2023-12-01 lúc 14.24.49.png",
-    "Chapter 4.canvas",
-    "Untitled.md",
-    "Untitled 1.md"
+    "Ảnh màn hình 2023-12-01 lúc 14.28.49.png"
   ]
 }

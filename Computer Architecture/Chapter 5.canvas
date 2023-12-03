@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"1a92719112550be6","x":-159,"y":-206,"width":400,"height":400,"type":"group","label":"Chapter outcome"},
+		{"id":"a14b19b09f0496fd","x":-140,"y":-180,"width":360,"height":80,"type":"text","text":"Student will be able to explain the structure of memory heirarchy"},
+		{"id":"a8691234dd9d9a60","x":-140,"y":-80,"width":360,"height":80,"type":"text","text":"Understand how Memory, Cache and Virtual Memory work at the hardware level."},
+		{"id":"4f993cd5877ad86c","x":-140,"y":20,"width":360,"height":79,"type":"text","text":"Estimate the performance of a memory heirarchy as well as a system"}
+	],
+	"edges":[]
+}
