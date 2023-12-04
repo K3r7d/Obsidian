@@ -1,10 +1,10 @@
 {
 	"nodes":[
 		{"id":"960f8ae138dd9a03","type":"group","x":-2230,"y":1200,"width":3120,"height":2000,"label":"Pipeline Hazards"},
+		{"id":"d7e07fd3e7743e5e","type":"group","x":1160,"y":660,"width":1340,"height":680,"label":"Pipelining"},
 		{"id":"e71b85bcd7e104c8","type":"group","x":840,"y":-1582,"width":2480,"height":1742,"label":"Implementation pic"},
 		{"id":"ee5795c15d2ee7d9","type":"group","x":-1440,"y":-407,"width":1540,"height":1140,"label":"MIPS instruction cycle"},
 		{"id":"c321eca6be3d6240","type":"group","x":-3080,"y":-1276,"width":1260,"height":1116,"label":"Definition"},
-		{"id":"d7e07fd3e7743e5e","type":"group","x":1160,"y":660,"width":1340,"height":680,"label":"Pipelining"},
 		{"id":"fd526f8f0e7932b4","type":"group","x":-573,"y":-1696,"width":733,"height":976,"label":"Control"},
 		{"id":"5129cff5c4d06ce1","type":"group","x":960,"y":-1440,"width":638,"height":928,"label":"R-Format Instruction"},
 		{"id":"9e638b27843e0499","type":"group","x":-864,"y":-355,"width":394,"height":615,"label":"Instruction Fetch"},
@@ -48,7 +48,6 @@
 		{"id":"e18cb34e291537f5","type":"text","text":"Data path: là đường dẫn dữ liệu là được điều khiển bởi Control","x":-2120,"y":-1113,"width":250,"height":103},
 		{"id":"7ff2960dd5b208e2","type":"text","text":"beq","x":1190,"y":-89,"width":250,"height":60},
 		{"id":"992f05a4c980a805","type":"text","text":"sw","x":1922,"y":-119,"width":250,"height":60},
-		{"id":"8616cfa26211a653","type":"file","file":"Pasted image 20231201220242.png","x":1520,"y":660,"width":500,"height":255},
 		{"id":"ff469eebd67f5250","type":"text","text":"Pipelining is an implementation technique in which multiple instructions are","x":1160,"y":660,"width":360,"height":100},
 		{"id":"82a72640922c440c","type":"text","text":"Hazards \n\tData Hazard\n\tStructure Hazard","x":1160,"y":760,"width":360,"height":113},
 		{"id":"f875f39532b4a6f8","type":"text","text":"","x":2018,"y":663,"width":250,"height":60},
@@ -66,7 +65,8 @@
 		{"id":"e92cb0bae5499f77","type":"text","text":"CPU","x":1800,"y":-1268,"width":199,"height":50},
 		{"id":"904b811ba6b33d29","type":"file","file":"Ảnh màn hình 2023-12-01 lúc 14.02.47.png","x":1800,"y":-1538,"width":500,"height":270},
 		{"id":"f55a6370362be94a","type":"link","url":"https://www.cit.ctu.edu.vn/~dtnghi/cod/ch5.pdf","x":960,"y":-2830,"width":400,"height":292},
-		{"id":"bd9fd691e222a6a0","type":"file","file":"Ảnh màn hình 2023-12-01 lúc 15.41.07.png","x":2635,"y":-532,"width":400,"height":314}
+		{"id":"bd9fd691e222a6a0","type":"file","file":"Ảnh màn hình 2023-12-01 lúc 15.41.07.png","x":2635,"y":-532,"width":400,"height":314},
+		{"id":"8616cfa26211a653","type":"file","file":"Pasted image 20231201220242.png","x":1520,"y":660,"width":500,"height":255}
 	],
 	"edges":[
 		{"id":"68af00e5d5956b4b","fromNode":"9e638b27843e0499","fromSide":"right","toNode":"a6d23049c8135e79","toSide":"left"},
