@@ -1,58 +1,42 @@
 {
   "main": {
-    "id": "02284ea9844abd3b",
+    "id": "5429e3a9c303dde5",
     "type": "split",
     "children": [
       {
-        "id": "0c35284e53e3dd2c",
+        "id": "95d0ba7918ac2c8c",
         "type": "tabs",
         "children": [
           {
-            "id": "770150ca84c17660",
+            "id": "1f7b6474d429c3cf",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Chapter 4.canvas",
+                "file": "Chuong 1.canvas",
                 "viewState": {
-                  "x": -2118.049165915484,
-                  "y": -422.21688138204365,
-                  "zoom": -1
-                }
-              }
-            }
-          },
-          {
-            "id": "41f58cc2d5aeebe1",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Chapter 5.canvas",
-                "viewState": {
-                  "x": -1320.2307171508796,
-                  "y": 1241.43391175726,
-                  "zoom": -1.5
+                  "x": 1212.9418908924258,
+                  "y": 1414.8520205362788,
+                  "zoom": -0.5533333333333336
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9299e4251b026839",
+    "id": "8fd5890ecf7db6a8",
     "type": "split",
     "children": [
       {
-        "id": "8396e7fa87c24ac6",
+        "id": "05b840f21e1ef1e2",
         "type": "tabs",
         "children": [
           {
-            "id": "28d9f141b181b06a",
+            "id": "71716ddbc453af8a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +46,7 @@
             }
           },
           {
-            "id": "88b52aa2b45fc2fd",
+            "id": "956adf202c79840c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -77,7 +61,7 @@
             }
           },
           {
-            "id": "cd1f8a5436c4782a",
+            "id": "abe2cbcb0e6f32dc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,24 +72,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "96693b4c70d10e34",
+    "id": "ff6e0af916e9bc88",
     "type": "split",
     "children": [
       {
-        "id": "f4a48dc62d394147",
+        "id": "7a037825f671286d",
         "type": "tabs",
         "children": [
           {
-            "id": "b54e20c6aa03117a",
+            "id": "8e407b461d074986",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 5.canvas",
+                "file": "Chuong 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,19 +100,19 @@
             }
           },
           {
-            "id": "44b086e404ac6f95",
+            "id": "43146f1c6a664148",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 5.canvas",
+                "file": "Chuong 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "95d7cae8e53fe3fc",
+            "id": "8f1604dd9a03bbd1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,12 +123,12 @@
             }
           },
           {
-            "id": "030f1717ee435cd3",
+            "id": "838ba5b7658777b3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 5.canvas"
+                "file": "Chuong 1.canvas"
               }
             }
           }
@@ -166,21 +149,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41f58cc2d5aeebe1",
+  "active": "1f7b6474d429c3cf",
   "lastOpenFiles": [
-    "Chapter 4.canvas",
-    "Chapter 5.canvas",
-    "Ảnh màn hình 2023-12-06 lúc 16.45.45.png",
-    "Ảnh màn hình 2023-12-04 lúc 11.58.21.png",
-    "Ảnh màn hình 2023-12-04 lúc 11.30.05.png",
-    "Chapter5.canvas.md",
-    "Untitled 1.md",
-    "Pasted image 20231201220242.png",
-    "Pasted image 20231201215945.png",
-    "Pasted image 20231201215359.png",
-    "Ảnh màn hình 2023-12-01 lúc 18.17.57.png",
-    "Ảnh màn hình 2023-12-01 lúc 18.14.38.png",
-    "Ảnh màn hình 2023-12-01 lúc 15.42.54.png",
-    "Ảnh màn hình 2023-12-01 lúc 15.42.12.png"
+    "Chuong 1.canvas"
   ]
 }
