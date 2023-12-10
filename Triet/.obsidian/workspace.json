@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Chuong 1.canvas",
+                "file": "Chương 2.canvas",
                 "viewState": {
-                  "x": -4952.117893493879,
-                  "y": -1049.2153218958208,
-                  "zoom": -0.4200000000000001
+                  "x": 1480.706341094573,
+                  "y": -803.3115394605172,
+                  "zoom": 0.006666666666666667
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chuong 1.canvas",
+                "file": "Chương 2.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chuong 1.canvas",
+                "file": "Chương 2.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chuong 1.canvas"
+                "file": "Chương 2.canvas"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "1f7b6474d429c3cf",
   "lastOpenFiles": [
-    "Chuong 1.canvas"
+    "Chuong 1.canvas",
+    "Chương 2.canvas"
   ]
 }

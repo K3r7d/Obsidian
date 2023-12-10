@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"9bdf64bb6a531c19","type":"text","text":"Chương 2","x":-152,"y":57,"width":250,"height":60,"color":"5"},
+		{"id":"873fa73357735a3c","type":"text","text":"Vật chất và ý thức","x":340,"y":57,"width":250,"height":60,"color":"4"},
+		{"id":"005a830734d3097e","type":"text","text":"Vật chất và các hình thức tồn tại của vật chất","x":940,"y":-700,"width":250,"height":60,"color":"1"},
+		{"id":"124d9292330edbbf","type":"text","text":"Quan niệm về CNDT và CNDV trước Mác và phạm trù vật chất","x":1340,"y":-1622,"width":347,"height":72,"color":"2"},
+		{"id":"339e76f2965dc6de","type":"text","text":"Duy tâm trước Mác ","x":1900,"y":-1978,"width":250,"height":60},
+		{"id":"4f1dc40740f18a10","type":"text","text":"Thừa nhận sự tồn tại của vật chất","x":2320,"y":-2098,"width":250,"height":60},
+		{"id":"0a0801c93841b07c","type":"text","text":"Phủ nhận tính tồn tại khách quan của vật chất","x":2320,"y":-1874,"width":250,"height":60},
+		{"id":"ca67bca4f8316844","type":"text","text":"Thừa nhận sự tồn tại khách quan của thế giới vật chất","x":2320,"y":-1794,"width":250,"height":60},
+		{"id":"488842d73cb46bf5","type":"text","text":"Lấy các yếu tố tự nhiên để giải thích cho sự tồn tại TGVC","x":2320,"y":-1653,"width":295,"height":63},
+		{"id":"14ed9eec6825fb9b","type":"text","text":"Duy vật trước Mác","x":1900,"y":-1734,"width":250,"height":60},
+		{"id":"865b310d3f14819c","type":"text","text":"Hạn chế","x":1878,"y":-1480,"width":250,"height":60},
+		{"id":"ed869c4bf20c4388","type":"text","text":"Chưa thoát khỏi PP tư duy cũ","x":2218,"y":-1480,"width":250,"height":60},
+		{"id":"64724ca8fa400950","type":"text","text":"đồng nhất vật chất và khối lượng","x":2548,"y":-1480,"width":250,"height":60},
+		{"id":"cc4430e001a065b0","type":"text","text":"Tách rời vật chất khỏi không gian và thời gian","x":2898,"y":-1480,"width":250,"height":60},
+		{"id":"b8e268792d7d249a","type":"text","text":"Cuộc cách mạng trong KHTN, sự phá sản của DVSH về VC","x":1416,"y":-1200,"width":271,"height":62,"color":"2"},
+		{"id":"be81fddff83e4fcc","type":"text","text":"Các thành tựu khtn trong cuối TK19 và đầu TK20","x":1860,"y":-1200,"width":250,"height":62},
+		{"id":"07e2fc14ee6ee0e2","x":2256,"y":-1199,"width":250,"height":58,"type":"text","text":"Bác bỏ các tư duy cảm tính của các nhà DVSH"},
+		{"id":"a49a56f47fbd93b1","x":1434,"y":-813,"width":250,"height":60,"color":"2","type":"text","text":"Quan niệm của Triết Học Mác Lê nin về vật chất"}
+	],
+	"edges":[
+		{"id":"cb53ee68cc119d0e","fromNode":"9bdf64bb6a531c19","fromSide":"right","toNode":"873fa73357735a3c","toSide":"left"},
+		{"id":"f5c7bdc68b8f85c6","fromNode":"873fa73357735a3c","fromSide":"right","toNode":"005a830734d3097e","toSide":"left"},
+		{"id":"a5fbb573807ec3bc","fromNode":"339e76f2965dc6de","fromSide":"right","toNode":"4f1dc40740f18a10","toSide":"left"},
+		{"id":"c6bbd5097331bcae","fromNode":"339e76f2965dc6de","fromSide":"right","toNode":"0a0801c93841b07c","toSide":"left"},
+		{"id":"b7a6d86ef0e417e6","fromNode":"124d9292330edbbf","fromSide":"right","toNode":"339e76f2965dc6de","toSide":"left"},
+		{"id":"fbe2a644e84252d6","fromNode":"14ed9eec6825fb9b","fromSide":"right","toNode":"ca67bca4f8316844","toSide":"left"},
+		{"id":"18d508d463f6bfd9","fromNode":"14ed9eec6825fb9b","fromSide":"right","toNode":"488842d73cb46bf5","toSide":"left"},
+		{"id":"e4bf047c58000924","fromNode":"124d9292330edbbf","fromSide":"right","toNode":"14ed9eec6825fb9b","toSide":"left"},
+		{"id":"a3aad2d2e03646b2","fromNode":"005a830734d3097e","fromSide":"right","toNode":"124d9292330edbbf","toSide":"left"},
+		{"id":"14c6aae151a48112","fromNode":"865b310d3f14819c","fromSide":"right","toNode":"ed869c4bf20c4388","toSide":"left"},
+		{"id":"e0e05c57cbe3d85f","fromNode":"ed869c4bf20c4388","fromSide":"right","toNode":"64724ca8fa400950","toSide":"left"},
+		{"id":"4891ecdf52e28ed5","fromNode":"64724ca8fa400950","fromSide":"right","toNode":"cc4430e001a065b0","toSide":"left"},
+		{"id":"bf385fda980382fc","fromNode":"124d9292330edbbf","fromSide":"right","toNode":"865b310d3f14819c","toSide":"left"},
+		{"id":"d2e83417c5f08bd0","fromNode":"005a830734d3097e","fromSide":"right","toNode":"b8e268792d7d249a","toSide":"left"},
+		{"id":"58dad49ffba2c818","fromNode":"b8e268792d7d249a","fromSide":"right","toNode":"be81fddff83e4fcc","toSide":"left"},
+		{"id":"2f059e3bb6865894","fromNode":"be81fddff83e4fcc","fromSide":"right","toNode":"07e2fc14ee6ee0e2","toSide":"left"},
+		{"id":"6774c8a2c15a16c1","fromNode":"005a830734d3097e","fromSide":"right","toNode":"a49a56f47fbd93b1","toSide":"left"}
+	]
+}
