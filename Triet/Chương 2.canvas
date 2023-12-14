@@ -105,10 +105,10 @@
 		{"id":"5cb6f034eea6a357","type":"text","text":"Thấp đến cao","x":-4750,"y":500,"width":250,"height":60},
 		{"id":"29007611170016e0","type":"text","text":"Cơ bản đến phức tạp","x":-4750,"y":600,"width":250,"height":60},
 		{"id":"5331642b38361bc3","type":"text","text":"...","x":-4750,"y":715,"width":250,"height":60},
-		{"id":"bc457ad8684e4fab","x":-4258,"y":907,"width":250,"height":60,"type":"text","text":"Tính chất của sự phát triển"},
-		{"id":"619da8d93b9f3985","x":-4735,"y":836,"width":250,"height":60,"type":"text","text":"Khách quan"},
-		{"id":"a67a8cfb2f0ff1f7","x":-4727,"y":957,"width":250,"height":60,"type":"text","text":"phổ biến"},
-		{"id":"e60abddf0933a9b2","x":-4735,"y":1090,"width":250,"height":60,"type":"text","text":"Đa dạng"}
+		{"id":"bc457ad8684e4fab","type":"text","text":"Tính chất của sự phát triển","x":-4258,"y":907,"width":250,"height":60},
+		{"id":"619da8d93b9f3985","type":"text","text":"Khách quan","x":-4735,"y":836,"width":250,"height":60},
+		{"id":"a67a8cfb2f0ff1f7","type":"text","text":"phổ biến","x":-4727,"y":957,"width":250,"height":60},
+		{"id":"e60abddf0933a9b2","type":"text","text":"Đa dạng","x":-4735,"y":1090,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"cb53ee68cc119d0e","fromNode":"9bdf64bb6a531c19","fromSide":"right","toNode":"873fa73357735a3c","toSide":"left"},
