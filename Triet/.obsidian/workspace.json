@@ -23,25 +23,14 @@
             }
           },
           {
-            "id": "6ad7ca2c4307388a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "fc964b7771f9a640",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Chuong 1.canvas",
-                "viewState": {
-                  "x": -1772.0288809315955,
-                  "y": -2814.9666572080414,
-                  "zoom": -1.182421117366994
-                }
+                "file": "Câu hỏi trắc nghiệm.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -58,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ff6e0af916e9bc88",
@@ -177,19 +167,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "templates:Insert template": false
     }
   },
-  "active": "c11403a145172380",
+  "active": "71716ddbc453af8a",
   "lastOpenFiles": [
     "Câu hỏi trắc nghiệm.md",
-    "Quotes.md",
     "Chuong 1.canvas",
+    "Quotes.md",
     "Chương 2.canvas"
   ]
 }

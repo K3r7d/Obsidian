@@ -3,3 +3,13 @@ Ph. Ăngghen:
 
 C. Mác
 - Triết học không treo lơ lửng bên ngoài thế giới cũng như bộ óc không tồn tại bên ngoài con người
+
+Heraclitus
+- Không ai tắm 2 lần trên 1 dòng sông
+
+Decartes
+- Tôi tư duy, tôi tồn tại
+
+Phoi ơ bắc
+- Bản tính con người là tình yêu 
+
