@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Câu hỏi trắc nghiệm.md",
+                "file": "Quotes.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Câu hỏi trắc nghiệm.md",
+                "file": "Quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Câu hỏi trắc nghiệm.md",
+                "file": "Quotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Câu hỏi trắc nghiệm.md"
+                "file": "Quotes.md"
               }
             }
           }
@@ -187,9 +187,9 @@
   },
   "active": "c11403a145172380",
   "lastOpenFiles": [
+    "Câu hỏi trắc nghiệm.md",
+    "Quotes.md",
     "Chuong 1.canvas",
-    "Chương 2.canvas",
-    "Quote.md",
-    "Câu hỏi trắc nghiệm.md"
+    "Chương 2.canvas"
   ]
 }
