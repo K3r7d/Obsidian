@@ -39,6 +39,10 @@
 		{"id":"6a11e952680f9945","type":"text","text":"SSD access time > HDD access time","x":-823,"y":915,"width":334,"height":60},
 		{"id":"3a33a24cf934d6cb","type":"text","text":"SSD","x":-1178,"y":787,"width":250,"height":60},
 		{"id":"32ffa01d3dc76850","type":"text","text":"USB","x":-1178,"y":668,"width":250,"height":60},
+		{"id":"d50cb7805adb67f4","type":"text","text":"Ideal Memory","x":-1506,"y":1247,"width":250,"height":66},
+		{"id":"95a5359e60b2370b","type":"text","text":"Magnetic Disk","x":-1506,"y":1128,"width":250,"height":60},
+		{"id":"9aea216346e9ff21","type":"text","text":"Flash","x":-1506,"y":915,"width":250,"height":60},
+		{"id":"860a130c2353c935","type":"text","text":"Memory Technology","x":-1940,"y":608,"width":250,"height":60},
 		{"id":"8c83227770784695","type":"text","text":"![[Ảnh màn hình 2023-12-04 lúc 11.58.21.png]]","x":-1178,"y":450,"width":253,"height":158},
 		{"id":"c669830d46d82bbf","type":"text","text":"the reason that it's called dynamic is the voltage in this DRAM is dynamic","x":-805,"y":488,"width":305,"height":82},
 		{"id":"7c4fd7ec37683de4","type":"file","file":"Ảnh màn hình 2023-12-04 lúc 11.30.05.png","x":-298,"y":1626,"width":400,"height":182},
@@ -47,11 +51,7 @@
 		{"id":"5bcb4bad5b81e0fb","type":"text","text":"index","x":-2580,"y":1580,"width":250,"height":60},
 		{"id":"413ca7ecad2a59d8","type":"text","text":"offset ","x":-2580,"y":1460,"width":250,"height":60},
 		{"id":"ea85241944fce8f5","type":"text","text":"Tag","x":-2580,"y":1700,"width":250,"height":60},
-		{"id":"d50cb7805adb67f4","type":"text","text":"Ideal Memory","x":-1506,"y":1247,"width":250,"height":66},
-		{"id":"95a5359e60b2370b","type":"text","text":"Magnetic Disk","x":-1506,"y":1128,"width":250,"height":60},
-		{"id":"80c924c9f6bba551","type":"text","text":"1 block = 32 word = 32 x 4 byte = 2 ^ 7 bits\n-> byte offset has 7 bits\n64 cache = 2 ^ 6 block\n-> index offset = 6 bits\n0x10203040 = \n0001 0000 0010 0000 001_1 0000 0_100 0000 \noffset = 64\nindex  = 32\nTags = 33025\nBlock ID (all the bit without offset byte) = 2,113,632","x":-2280,"y":1880,"width":660,"height":300},
-		{"id":"9aea216346e9ff21","type":"text","text":"Flash","x":-1506,"y":915,"width":250,"height":60},
-		{"id":"860a130c2353c935","type":"text","text":"Memory Technology","x":-1940,"y":608,"width":250,"height":60}
+		{"id":"80c924c9f6bba551","type":"text","text":"1 block = 32 word = 32 x 4 byte = 2 ^ 7 bits\n-> byte offset has 7 bits\n64 cache = 2 ^ 6 block\n-> index offset = 6 bits\n0x10203040 = \n0001 0000 0010 0000 001_1 0000 0_100 0000 \noffset = 64\nindex  = 32\nTags = 33025\nBlock ID (all the bit without offset byte) = 2,113,632","x":-2280,"y":1880,"width":660,"height":300}
 	],
 	"edges":[
 		{"id":"8b824b38bcebe8bb","fromNode":"7fade47b073648d6","fromSide":"right","toNode":"924151cc8eb79d62","toSide":"left"},

@@ -34,6 +34,21 @@
             "id": "fc964b7771f9a640",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Chuong 1.canvas",
+                "viewState": {
+                  "x": -1772.0288809315955,
+                  "y": -2814.9666572080414,
+                  "zoom": -1.182421117366994
+                }
+              }
+            }
+          },
+          {
+            "id": "c11403a145172380",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Câu hỏi trắc nghiệm.md",
@@ -43,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,10 +185,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc964b7771f9a640",
+  "active": "c11403a145172380",
   "lastOpenFiles": [
-    "Câu hỏi trắc nghiệm.md",
+    "Chuong 1.canvas",
     "Chương 2.canvas",
-    "Chuong 1.canvas"
+    "Quote.md",
+    "Câu hỏi trắc nghiệm.md"
   ]
 }
