@@ -45,9 +45,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e6d07bef48c4c15c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Chuong 1.canvas",
+                "viewState": {
+                  "x": 3348.7419475282113,
+                  "y": 680.9204167005844,
+                  "zoom": -0.18242111736699407
+                }
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ff6e0af916e9bc88",
@@ -114,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quotes.md",
+                "file": "Chuong 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quotes.md",
+                "file": "Chuong 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quotes.md"
+                "file": "Chuong 1.canvas"
               }
             }
           }
@@ -175,11 +189,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "71716ddbc453af8a",
+  "active": "e6d07bef48c4c15c",
   "lastOpenFiles": [
-    "Câu hỏi trắc nghiệm.md",
+    "Chương 2.canvas",
     "Chuong 1.canvas",
-    "Quotes.md",
-    "Chương 2.canvas"
+    "Câu hỏi trắc nghiệm.md",
+    "Quotes.md"
   ]
 }
