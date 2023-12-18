@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quotes.md",
+                "file": "Câu hỏi trắc nghiệm.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,15 +54,15 @@
               "state": {
                 "file": "Chuong 1.canvas",
                 "viewState": {
-                  "x": 3348.7419475282113,
-                  "y": 680.9204167005844,
+                  "x": -3825.538292367009,
+                  "y": 1865.0249223143478,
                   "zoom": -0.18242111736699407
                 }
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chuong 1.canvas",
+                "file": "Câu hỏi trắc nghiệm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chuong 1.canvas",
+                "file": "Câu hỏi trắc nghiệm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chuong 1.canvas"
+                "file": "Câu hỏi trắc nghiệm.md"
               }
             }
           }
@@ -189,11 +189,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "e6d07bef48c4c15c",
+  "active": "c11403a145172380",
   "lastOpenFiles": [
     "Chương 2.canvas",
-    "Chuong 1.canvas",
+    "Quotes.md",
     "Câu hỏi trắc nghiệm.md",
-    "Quotes.md"
+    "Chuong 1.canvas"
   ]
 }
