@@ -14,4 +14,6 @@ A two-stage stochastic programming framework for evacuation planning in disaster
 	2. Multiple sources and sinks conversion: 
 		 ![[Pasted image 20231128081920.png]] ![[Pasted image 20231128081934.png]] ![[Pasted image 20231128081950.png]] 
 	1. Description of the two-stage stochastic evacuation problem by the min-cost flow problem
-2. MODEL FORMULATION
+3. MODEL FORMULATION
+	1. notation![[Ảnh màn hình 2023-12-29 lúc 11.14.45.png]]
+	2. 
