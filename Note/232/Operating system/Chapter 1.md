@@ -35,11 +35,11 @@
 	ICP in the context of operating systems stands for Inter-Process Communication. It is a set of programming interfaces that allow a programmer to coordinate activities among various program processes that can run concurrently in an operating system. This allows a specific program to handle many user requests at the same time.
 	There are several techniques for IPC, and two of the most common ones are shared memory and message passing2:
 		Shared Memory: In this method, processes share a common space or memory  location known as a buffer where the data is stored and from which the data is consumed2. An example of this is the Producer-Consumer problem2.
-		Pipes: Pipes are a type of IPC that allows two or more processes to communicate with each other by creating a unidirectional or bidirectional channel between them3. A pipe is a mechanism by which the output of one process is directed into the input of another process3.
+		Pipes: Pipes are a type of IPC that allows two or more processes to communicate with each other by creating a unidirectional or bidirectional channel between them3. A pipe is a mechanism by which the output of one process is directed into the input of another processﬁ3.
 	IPC is crucial in computer science as it allows processes to manage shared data4. Typically, applications can use IPC, categorized as clients and servers, where the client requests data and the server responds to client requests.
 
-[job scheduling]
-
+[Mode bit]
+![[Ảnh màn hình 2024-01-31 lúc 14.34.50.png]]
 [I/O subsystem]
 
 [Distributed Systems] 
@@ -60,6 +60,8 @@
 
 Despite increase speed of computing, too many CPU will make the system bus degrade. To solve this problem, They use [shared system interconnect], so that all CPUs share one physical address space. Or it's [non-uniform memory access (NUMA)].
 
-[Blade severs] are systems in which multiple processor boards
+[Peer-to-Peer Computing] (P2P). In this model: 
+	clients and servers are not distinguished
+	In a client-server system, the sever is a bottleneck while in a peer-to-peer system services can be provided by several nodes distributed throughout the network.
 
 
