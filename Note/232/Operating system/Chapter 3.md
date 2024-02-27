@@ -1,3 +1,14 @@
+[Process] is a program execution. The status is represented by the value of the program counter and content of processor's registers.
+
+![[Ảnh màn hình 2024-02-21 lúc 15.00.25.png]]
+[Text section] the executable code
+[Data section] global variables
+[Heap section] memory that is dynamically allocated during program run time
+[Stack section] temporary data storage when invoking functions
+
+Note: sizes of text and data section are fixed, Heap and Stack can be shrink and grown.
+
+
 [Process State]
 	New: The process is being created
 	Running: Instruction is being executed
@@ -10,6 +21,8 @@
 
 wait(&a) : wait for the child a finish the process.
 fork() : create a child process in Linux
+
+
 
 [Inter-Process Communication (IPC)]
 	Processes within a system may be [independent] or [cooperating]
